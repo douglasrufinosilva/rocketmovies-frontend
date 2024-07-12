@@ -3,7 +3,7 @@ Desafio front end da aplicação Rocketmovie do curso da Rocketseat, para criaç
 
 <br>
 
-Veja o deploy da aplicação em <a href="https://rocketmovie-notes.netlify.app/" target="_blank"></a>.
+Veja o deploy da aplicação <a href="https://rocketmovie-notes.netlify.app/" target="_blank">aqui</a>.
 
 
 Projeto criado usando as seguintes tecnologias: 
